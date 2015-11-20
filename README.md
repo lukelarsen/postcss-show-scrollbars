@@ -46,7 +46,7 @@ Will output:
 ```
 
 ##Demo
-[View demo on jsfiddle]
+[Demo]
 
 
 ## Usage
