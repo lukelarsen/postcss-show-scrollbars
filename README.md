@@ -7,7 +7,7 @@
      title="Philosopher’s stone, logo of PostCSS"
      src="http://postcss.github.io/postcss/logo-leftp.png">
 
-[PostCSS] plugin for enabling scrollbard to always show in webkit.
+[PostCSS] plugin for showing scrollbars in webkit.
 
 If you have a container block with overflow: hidden; on it and the user is using Webkit the scrollbar won't show up until the user starts to scroll in the designated area. This can be misleading to the user. They might not know they can scroll. To help fix this, we can always show the scrollbar using this plugin.
 
@@ -50,7 +50,6 @@ Will output:
 
 
 ## Usage
-
 ```
 npm install postcss-show-scrollbars --save-dev
 ```
