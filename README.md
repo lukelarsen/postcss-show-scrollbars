@@ -19,7 +19,7 @@ The plugin allows you to set the color of the scrollbar. That is the only option
 }
 ```
 
-##Example
+## Example
 
 ```css
 .scrolling-container{
@@ -45,7 +45,7 @@ Will output:
 }
 ```
 
-##Demo
+## Demo
 [Demo]
 
 
