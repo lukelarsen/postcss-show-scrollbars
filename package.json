@@ -1,0 +1,25 @@
+{
+  "name": "postcss-show-scrollbars",
+  "version": "1.0.5",
+  "description": "A PostCSS plugin for always showing scrollbars in Webkit.",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "scroll",
+    "scrollbar"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Larsen <luke@lukelarsen.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lukelarsen/postcss-show-scrollbars"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^5.0.11"
+  }
+}
